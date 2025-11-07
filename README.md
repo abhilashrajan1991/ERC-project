@@ -1,5 +1,4 @@
 Overview of The contract:
-
 Uses OpenZeppelin’s ERC1155, Ownable, and ReentrancyGuard.
 Represents rooms or units (apartments, shops) as token IDs.
 Each room/unit has fractional ownership via “shares” (ERC-1155 tokens).
