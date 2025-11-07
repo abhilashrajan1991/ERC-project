@@ -25,3 +25,5 @@ Emits an event for transparency.
 Lease Info:
 checkLeaseStatus() lets anyone check if a lease is active (based on block number).
 getRoom() and getTenants() provide metadata and tenant lists.
+
+i want to create a similar kind of smart contract for this purpose: to issue a tradeable and verifiable certificate to a working member of trading and managements association
