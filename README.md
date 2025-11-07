@@ -6,6 +6,7 @@ Allows tenants to lease shares for a given number of months, paying rent in ETH.
 Tracks lease periods using block numbers.
 
 Key Functionalities
+
 For Room Creation:
 constructor() creates 8 rooms (5 apartments, 3 shops).
 Each room has a name, totalShares (100), and pricePerShare (e.g., 0.01 ETH/month/share).
